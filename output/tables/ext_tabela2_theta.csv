@@ -1,0 +1,4 @@
+"metodo","equacao","R2","theta","taxa_desconto"
+"1. Regressão de cointegração (Y_t em y_t)","Y = -64.091 + 64.516 y",0.899,64.516,0.0155
+"2. Regressão de correção de erros (Dy_t)","Dy = 0.070 + 0.357 Dy(-1) + 0.002 DY - 0.053 y(-1) + 0.0008 Y",0.268,62.793,0.0159
+"3. Retorno médio da amostra","retorno médio = 8.40%",NA,11.906,0.084

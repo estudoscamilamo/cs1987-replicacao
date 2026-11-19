@@ -1,0 +1,7 @@
+"caso","estatistica","ep_original","ep_delta","ep_bootstrap"
+"Ações theta=12.195","var(S)/var(S')",86.04,88.22,40.614
+"Ações theta=12.195","corr(S,S')",0.801,1.031,0.493
+"Ações theta=12.195","var(xi)/var(xi')",4.49,3.765,4.769
+"Ações theta=31.092","var(S)/var(S')",5.38,4.12,3.503
+"Ações theta=31.092","corr(S,S')",0.207,0.088,0.187
+"Ações theta=31.092","var(xi)/var(xi')",0.441,0.512,0.538
